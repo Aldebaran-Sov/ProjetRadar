@@ -1,0 +1,15 @@
+#myCanvas {
+	margin: 0 auto 0 auto;
+	display: block;
+	padding: 0;
+	border-radius: 10px;
+	border: 2px dashed #00f;
+	background-color: var(--myCanvas,hsla(0,0%,50%,.5));
+	image-rendering: crisp-edges;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
